@@ -1,6 +1,4 @@
 keaidexiangmu
-<<<<<<< HEAD
 we are the world
-=======
 we are the world testgit bianjiqi
->>>>>>> parent of 2b25464... 12333
+12333
